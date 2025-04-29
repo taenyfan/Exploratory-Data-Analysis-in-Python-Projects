@@ -1,6 +1,6 @@
-# 📊 Testing for ShoeFly.com
+# Testing for ShoeFly.com
 
-## 📝 Introduction
+##  Introduction
 
 This is a project from **Codecademy** designed to practice A/B testing techniques. The fictional company under analysis is an online shoe store called **ShoeFly.com**.
 
@@ -15,7 +15,7 @@ The company wants to analyze how these ads are performing across different platf
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 Analyze the data from an A/B test using **Python**. Key questions to answer:
 
@@ -27,7 +27,7 @@ Analyze the data from an A/B test using **Python**. Key questions to answer:
 
 ---
 
-## 📁 Data Description
+## Data Description
 
 ShoeFly has provided the dataset in a CSV file named `ad_clicks.csv`, which contains the following columns:
 
